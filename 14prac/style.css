@@ -1,0 +1,281 @@
+/* Игра угадай ячейку */
+/* td {
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+} */
+
+/* Экранная клавиатура */
+/* #n5 {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+#n5 span {
+    cursor: pointer;
+    padding: 10px 15px;
+    background: #dedede;
+} */
+
+/* Линейный календарь */
+/* #n6 {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#n6 span {
+    user-select: none;
+    cursor: pointer;
+}
+
+#n6 ul {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 5px;
+}
+
+#n6 ul li {
+    padding: 10px;
+    background: #dedede;
+}
+
+#n6 ul .current-day {
+    background: #8c97d0 !important;
+} */
+
+/* Поиск тегов */
+/* #n7 {
+    margin-top: 50px;
+} */
+
+/* Поиск исторических события */
+/* #n8 {
+    margin-top: 50px;
+} */
+
+/* Сайт предсказаний */
+/* #n10 {
+    margin-top: 50px;
+}
+
+#n10 #parent {
+    text-align: center;
+}
+
+#n10 #parent > * {
+    margin-bottom: 10px;
+}
+
+#n10 #timer {
+    font-size: 18px;
+}
+
+#n10 #text {
+    font-size: 17px;
+    font-style: italic;
+}
+
+#n10 .good-prediction {
+    color: green;
+}
+
+#n10 .bad-prediction {
+    color: red;
+}
+
+#n10 button {
+    padding: 5px 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#n10 button:not(.active) {
+    display: none;
+} */
+
+/* #n15 {
+    margin-top: 50px;
+} */
+
+/* #n18 {
+    margin-top: 50px;
+}
+
+#n18 #input, #list {
+    display: inline-block;
+}
+
+#n18 #list {
+    padding: 0;
+    list-style-type: none;
+}
+
+#n18 #list span {
+    margin-right: 5px;
+}
+
+#n18 #list .remove, #list .mark {
+    color: blue;
+    cursor: pointer;
+}
+
+#n18 #list .remove:hover, #list .mark:hover {
+    text-decoration: underline;
+}
+
+#n18 #list .done .task {
+    text-decoration: line-through;
+} */
+
+/* * {
+    box-sizing: border-box;
+}
+#parent {
+    margin: 0 auto;
+    width: 500px;
+}
+  
+#form {
+    display: flex;
+    margin-bottom: 15px;
+}
+#form input {
+    padding: 8px;
+    width: 24%;
+    margin: 0 0.5% 10px 0.5%;
+}
+  
+h2 {
+    margin-top: 0;
+    margin-bottom: 7px;
+}
+  
+#table {
+    width: 100%;
+    margin-bottom: 10px;
+}
+#table td, #table th {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid black;
+}
+#table td.remove {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#table td.remove:hover {
+    text-decoration: none;
+}
+  
+#result {
+    text-align: right;
+    margin-right: 10px;
+} */
+
+/* #n30 {
+    margin-top: 50px;
+}
+
+#n30 .right {
+    border: 1px solid green;
+}
+
+#n30 .wrong {
+    border: 1px solid red;
+} */
+
+/* #n41 {
+    margin-top: 50px;
+}
+
+#n41 #field td {
+      width: 50px;
+      height: 50px;
+      border: 1px solid black;
+      text-align: center;
+      font-weight: bold;
+} */
+
+/* #n47 {
+    margin-top: 50px;
+}
+
+#n47 #field td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+
+#n47 .red {
+    background: red;
+}
+
+#n47 .green {
+    background: green;
+}
+
+#n47 .blue {
+    background: blue;
+}
+
+#n47 .win {
+    background: yellow; 
+}
+
+#n47 #moves {
+    font-size: 18px;
+    margin-bottom: 10px;
+} */
+
+#n52 {
+    margin-top: 50px;
+}
+
+#n52 #parent {
+    text-align: center;
+}
+
+#n52 #calendar {
+    display: inline-block;
+}
+
+#n52 #calendar td, #calendar th {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#n52 .nav, #calendar .info {
+    text-align: center;
+}
+
+#n52 a {
+    color: blue;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#n52 a:hover {
+    color: red;
+}
+
+#n52 .active {
+    color: red;
+}
